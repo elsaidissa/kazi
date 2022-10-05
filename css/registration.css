@@ -1,0 +1,51 @@
+* {
+      margin: 0;
+      padding: 0;
+  }
+  .regform{
+      width:auto;
+      background-color: #2bde5b;
+      margin: auto;
+      color: #FFFFFF;
+      padding: 10px 0px 10px 0px;
+      text-align: center;
+      border-radius: 15px 15px 0px 0px;
+  }
+  .main{
+      background-color:rgb(163, 151, 151),transparent;
+      width: auto;
+      margin: auto;
+  }
+  .option{
+      position: relative;
+      left: 200px;
+      top: -37px;
+      line-height: 40px;
+      width: 532px;
+      height: 40px;
+      border-radius: 6px;
+      padding: 0 22px;
+      font-size: 16px;
+      color: #555;
+      outline: none;
+      overflow: hidden;
+  }
+  .option option{
+      font-size: 20px;
+  }
+
+.uti{
+position:relative;
+color: grey;
+left: 0.75rem;
+top: 23px;
+font-size: 1rem;
+cursor: text;
+transform: translateY(12px);
+}
+.juzi{
+    background-color: #2bde5b;
+}
+.nav-wrapper{
+    background-color: #2bde5b;
+}

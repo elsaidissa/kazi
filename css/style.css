@@ -1,0 +1,65 @@
+@media only screen  and (max-width:1300){
+}
+    
+.blink {
+    animation: blinker 1.5s linear infinite;
+    color: #f1f5f2;
+    font-family: sans-serif;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+.nav-wrapper{
+    background-color: #2bde5b;
+}
+
+.slider .indicators .indicator-item{
+    background-color: white;
+}
+
+.space{
+    width:fit-content;
+    text-align: left;
+    background-color: #2bde5b;
+    border-radius: 10px 1px 10px 1px;
+    
+} 
+.spaco{
+    width:fit-content;
+    background-color: #2bde5b;
+    border-radius: 10px 1px 10px 1px;
+    
+} 
+
+.parallax-container {
+    min-height: 280px;
+    height: auto;
+}
+
+.beach_access {
+    color: #2bde5b;
+    
+}
+
+
+.footer-one{
+    background: #2bde5b;
+}
+
+.footer-two{
+    background: #166d2d;
+}
+
+nav .brand-logo{
+    padding-left: 50px;
+    font-size: 1.5rem;
+}
+.hd{
+    border-radius: 15px 15px 0px 0px;
+}
+.uli{
+    font-size: small;
+    color: teal;
+}
